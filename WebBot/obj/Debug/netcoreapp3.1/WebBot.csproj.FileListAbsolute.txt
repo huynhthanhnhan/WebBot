@@ -1,0 +1,60 @@
+D:\VisualStudio\WebBot\WebBot\bin\Debug\netcoreapp3.1\WebBot.exe
+D:\VisualStudio\WebBot\WebBot\obj\Debug\netcoreapp3.1\WebBot.AssemblyInfoInputs.cache
+D:\VisualStudio\WebBot\WebBot\obj\Debug\netcoreapp3.1\WebBot.AssemblyInfo.cs
+D:\VisualStudio\WebBot\WebBot\bin\Debug\netcoreapp3.1\WebBot.deps.json
+D:\VisualStudio\WebBot\WebBot\bin\Debug\netcoreapp3.1\WebBot.runtimeconfig.json
+D:\VisualStudio\WebBot\WebBot\bin\Debug\netcoreapp3.1\WebBot.runtimeconfig.dev.json
+D:\VisualStudio\WebBot\WebBot\bin\Debug\netcoreapp3.1\WebBot.dll
+D:\VisualStudio\WebBot\WebBot\bin\Debug\netcoreapp3.1\WebBot.pdb
+D:\VisualStudio\WebBot\WebBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\VisualStudio\WebBot\WebBot\bin\Debug\netcoreapp3.1\OpenQA.Selenium.Chrome.ChromeDriverExtensions.dll
+D:\VisualStudio\WebBot\WebBot\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\VisualStudio\WebBot\WebBot\obj\Debug\netcoreapp3.1\WebBot.csproj.CopyComplete
+D:\VisualStudio\WebBot\WebBot\obj\Debug\netcoreapp3.1\WebBot.dll
+D:\VisualStudio\WebBot\WebBot\obj\Debug\netcoreapp3.1\WebBot.pdb
+D:\VisualStudio\WebBot\WebBot\obj\Debug\netcoreapp3.1\WebBot.genruntimeconfig.cache
+D:\VisualStudio\WebBot\WebBot\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\VisualStudio\WebBot\WebBot\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\VisualStudio\WebBot\WebBot\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\VisualStudio\WebBot\WebBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualStudio\WebBot\WebBot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VisualStudio\WebBot\WebBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VisualStudio\WebBot\WebBot\obj\Debug\netcoreapp3.1\WebBot.csprojAssemblyReference.cache
+D:\VisualStudio\WebBot\WebBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\VisualStudio\WebBot\WebBot\obj\Debug\netcoreapp3.1\WebBot.csproj.CoreCompileInputs.cache
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\WebBot.exe
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\WebBot.deps.json
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\WebBot.runtimeconfig.json
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\WebBot.runtimeconfig.dev.json
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\WebBot.dll
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\WebBot.pdb
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Uwp.Notifications.dll
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\OpenQA.Selenium.Chrome.ChromeDriverExtensions.dll
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\WebDriver.dll
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+E:\VisualStudio\WebBot - Copy\WebBot\obj\Debug\netcoreapp3.1\WebBot.csprojAssemblyReference.cache
+E:\VisualStudio\WebBot - Copy\WebBot\obj\Debug\netcoreapp3.1\WebBot.AssemblyInfoInputs.cache
+E:\VisualStudio\WebBot - Copy\WebBot\obj\Debug\netcoreapp3.1\WebBot.AssemblyInfo.cs
+E:\VisualStudio\WebBot - Copy\WebBot\obj\Debug\netcoreapp3.1\WebBot.csproj.CopyComplete
+E:\VisualStudio\WebBot - Copy\WebBot\obj\Debug\netcoreapp3.1\WebBot.dll
+E:\VisualStudio\WebBot - Copy\WebBot\obj\Debug\netcoreapp3.1\WebBot.pdb
+E:\VisualStudio\WebBot - Copy\WebBot\obj\Debug\netcoreapp3.1\WebBot.genruntimeconfig.cache
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\VisualStudio\WebBot - Copy\WebBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+E:\VisualStudio\WebBot - Copy\WebBot\obj\Debug\netcoreapp3.1\WebBot.csproj.CoreCompileInputs.cache
